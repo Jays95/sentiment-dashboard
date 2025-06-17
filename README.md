@@ -16,6 +16,12 @@ This dashboard allows users to input any sentence or paragraph and receive:
 Whether you're analyzing customer feedback, headlines, or social media, this app gives quick and interpretable results backed by a state-of-the-art transformer model.
 
 ---
+# Example file structure
+📦 sentiment-dashboard/
+├── app.py
+├── requirements.txt
+├── .env  # ignored
+└── README.md
 
 ## ⚙️ Tech Stack
 
