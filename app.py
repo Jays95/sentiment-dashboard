@@ -1,9 +1,8 @@
-import streamlit as stimport os
-token = os.getenv("HF_API_KEY")
-
+import streamlit as
 import requests
 import plotly.express as px
 import os
+
 import pandas as pd
 from PyPDF2 import PdfReader
 from docx import Document
