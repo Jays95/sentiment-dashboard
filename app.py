@@ -1,5 +1,6 @@
+import streamlit as stimport os
+token = os.getenv("HF_API_KEY")
 
-import streamlit as st
 import requests
 import plotly.express as px
 import os
