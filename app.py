@@ -1,4 +1,4 @@
-import streamlit as
+import streamlit as st
 import requests
 import plotly.express as px
 import os
