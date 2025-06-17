@@ -1,0 +1,9 @@
+streamlit
+plotly
+pandas
+python-docx
+reportlab
+PyPDF2
+pillow
+python-dotenv
+kaleido
